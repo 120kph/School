@@ -1,0 +1,384 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10) (preloaded format=pdflatex 2024.1.9)  2 FEB 2024 00:17
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**"c:/Users/popec/OneDrive/Documents/School/Grade 12/GENBIO02/02 Cell Cycle and Cell Division/main.tex"
+(c:/Users/popec/OneDrive/Documents/School/Grade 12/GENBIO02/02 Cell Cycle and Cell Division/main.tex
+LaTeX2e <2023-06-01> patch level 1
+L3 programming layer <2023-08-29>
+(C:\Users\popec\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(C:\Users\popec\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
+File: size10.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+) (C:\Users\popec\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+) (C:\Users\popec\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2023/05/13 v2.17o AMS math features
+\@mathmargin=\skip50
+
+For additional information on amsmath, use the `?' option.
+(C:\Users\popec\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+ (C:\Users\popec\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks17
+\ex@=\dimen141
+)) (C:\Users\popec\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen142
+) (C:\Users\popec\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count193
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count194
+\leftroot@=\count195
+LaTeX Info: Redefining \overline on input line 399.
+LaTeX Info: Redefining \colon on input line 410.
+\classnum@=\count196
+\DOTSCASE@=\count197
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box51
+\strutbox@=\box52
+LaTeX Info: Redefining \big on input line 722.
+LaTeX Info: Redefining \Big on input line 723.
+LaTeX Info: Redefining \bigg on input line 724.
+LaTeX Info: Redefining \Bigg on input line 725.
+\big@size=\dimen143
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count198
+LaTeX Info: Redefining \bmod on input line 905.
+LaTeX Info: Redefining \pmod on input line 910.
+LaTeX Info: Redefining \smash on input line 940.
+LaTeX Info: Redefining \relbar on input line 970.
+LaTeX Info: Redefining \Relbar on input line 971.
+\c@MaxMatrixCols=\count199
+\dotsspace@=\muskip16
+\c@parentequation=\count266
+\dspbrk@lvl=\count267
+\tag@help=\toks18
+\row@=\count268
+\column@=\count269
+\maxfields@=\count270
+\andhelp@=\toks19
+\eqnshift@=\dimen144
+\alignsep@=\dimen145
+\tagshift@=\dimen146
+\tagwidth@=\dimen147
+\totwidth@=\dimen148
+\lineht@=\dimen149
+\@envbody=\toks20
+\multlinegap=\skip51
+\multlinetaggap=\skip52
+\mathdisplay@stack=\toks21
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+) (C:\Users\popec\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (C:\Users\popec\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks22
+) (C:\Users\popec\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+ (C:\Users\popec\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count271
+\Gm@cntv=\count272
+\c@Gm@tempcnt=\count273
+\Gm@bindingoffset=\dimen150
+\Gm@wd@mp=\dimen151
+\Gm@odd@mp=\dimen152
+\Gm@even@mp=\dimen153
+\Gm@layoutwidth=\dimen154
+\Gm@layoutheight=\dimen155
+\Gm@layouthoffset=\dimen156
+\Gm@layoutvoffset=\dimen157
+\Gm@dimlist=\toks23
+ (C:\Users\popec\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg)) (C:\Users\popec\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+ (C:\Users\popec\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+ (C:\Users\popec\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+) (C:\Users\popec\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+ (C:\Users\popec\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen158
+\Gin@req@width=\dimen159
+) (C:\Users\popec\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2023-04-19 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count274
+\l__pdf_internal_box=\box53
+) (main.aux)
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(45.80893pt, 505.89pt, 45.80894pt)
+* v-part:(T,H,B)=(77.84674pt, 650.43pt, 116.77011pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=505.89pt
+* \textheight=650.43pt
+* \oddsidemargin=-26.46106pt
+* \evensidemargin=-26.46106pt
+* \topmargin=-31.42325pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumntrue
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(C:\Users\popec\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count275
+\scratchdimen=\dimen160
+\scratchbox=\box54
+\nofMPsegments=\count276
+\nofMParguments=\count277
+\everyMPshowfont=\toks24
+\MPscratchCnt=\count278
+\MPscratchDim=\dimen161
+\MPnumerator=\count279
+\makeMPintoPDFobject=\count280
+\everyMPtoPDFconversion=\toks25
+) (C:\Users\popec\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (C:\Users\popec\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+Overfull \hbox (1.30583pt too wide) in paragraph at lines 14--15
+\T1/cmr/m/n/10 there is poi-sonous bac-te-ria present in its saliva which
+ []
+
+<./SS/dns.png, id=1, 245.79327pt x 120.0736pt>
+File: ./SS/dns.png Graphic file (type png)
+<use ./SS/dns.png>
+Package pdftex.def Info: ./SS/dns.png  used on input line 33.
+(pdftex.def)             Requested size: 245.79266pt x 120.07327pt.
+<./SS/centromere.png, id=3, 295.47891pt x 253.69781pt>
+File: ./SS/centromere.png Graphic file (type png)
+<use ./SS/centromere.png>
+Package pdftex.def Info: ./SS/centromere.png  used on input line 49.
+(pdftex.def)             Requested size: 177.2887pt x 152.21985pt.
+<./SS/kinetochore.png, id=4, 581.17125pt x 432.11438pt>
+File: ./SS/kinetochore.png Graphic file (type png)
+<use ./SS/kinetochore.png>
+Package pdftex.def Info: ./SS/kinetochore.png  used on input line 58.
+(pdftex.def)             Requested size: 174.35272pt x 129.6353pt.
+[1
+
+
+{C:/Users/popec/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./SS/dns.png> <./SS/centromere.png>]
+<./SS/G0Drawing.png, id=15, 338.76563pt x 262.73157pt>
+File: ./SS/G0Drawing.png Graphic file (type png)
+<use ./SS/G0Drawing.png>
+Package pdftex.def Info: ./SS/G0Drawing.png  used on input line 80.
+(pdftex.def)             Requested size: 237.13431pt x 183.91083pt.
+<./SS/G1SPDrawing.png, id=16, 276.28218pt x 271.76532pt>
+File: ./SS/G1SPDrawing.png Graphic file (type png)
+<use ./SS/G1SPDrawing.png>
+Package pdftex.def Info: ./SS/G1SPDrawing.png  used on input line 86.
+(pdftex.def)             Requested size: 193.3962pt x 190.23442pt.
+<./SS/BbBb.png, id=17, 471.26062pt x 210.03468pt>
+File: ./SS/BbBb.png Graphic file (type png)
+<use ./SS/BbBb.png>
+Package pdftex.def Info: ./SS/BbBb.png  used on input line 93.
+(pdftex.def)             Requested size: 235.62973pt x 105.01707pt.
+ [2 <./SS/kinetochore.png> <./SS/G0Drawing.png> <./SS/G1SPDrawing.png>]
+<./SS/DipVsHap.png, id=25, 419.31656pt x 242.40562pt>
+File: ./SS/DipVsHap.png Graphic file (type png)
+<use ./SS/DipVsHap.png>
+Package pdftex.def Info: ./SS/DipVsHap.png  used on input line 102.
+(pdftex.def)             Requested size: 209.65776pt x 121.2025pt.
+<./SS/MitMeoDipHap.png, id=26, 322.20375pt x 236.38312pt>
+File: ./SS/MitMeoDipHap.png Graphic file (type png)
+<use ./SS/MitMeoDipHap.png>
+Package pdftex.def Info: ./SS/MitMeoDipHap.png  used on input line 109.
+(pdftex.def)             Requested size: 193.32373pt x 141.83096pt.
+<./SS/nn2n.png, id=27, 378.66469pt x 201.75375pt>
+File: ./SS/nn2n.png Graphic file (type png)
+<use ./SS/nn2n.png>
+Package pdftex.def Info: ./SS/nn2n.png  used on input line 112.
+(pdftex.def)             Requested size: 189.33188pt x 100.87662pt.
+<./SS/celllifecycle.png, id=28, 281.55188pt x 222.07968pt>
+File: ./SS/celllifecycle.png Graphic file (type png)
+<use ./SS/celllifecycle.png>
+Package pdftex.def Info: ./SS/celllifecycle.png  used on input line 118.
+(pdftex.def)             Requested size: 225.24179pt x 177.66397pt.
+ [3 <./SS/BbBb.png> <./SS/DipVsHap.png> <./SS/MitMeoDipHap.png> <./SS/nn2n.png> <./SS/celllifecycle.png>]
+<./SS/cyclin.png, id=39, 392.21532pt x 237.88875pt>
+File: ./SS/cyclin.png Graphic file (type png)
+<use ./SS/cyclin.png>
+Package pdftex.def Info: ./SS/cyclin.png  used on input line 170.
+(pdftex.def)             Requested size: 235.331pt x 142.73433pt.
+<./SS/interphase.png, id=41, 443.40656pt x 233.37187pt>
+File: ./SS/interphase.png Graphic file (type png)
+<use ./SS/interphase.png>
+Package pdftex.def Info: ./SS/interphase.png  used on input line 174.
+(pdftex.def)             Requested size: 221.70273pt x 116.68564pt.
+<./SS/prophase.png, id=43, 450.18187pt x 243.91125pt>
+File: ./SS/prophase.png Graphic file (type png)
+<use ./SS/prophase.png>
+Package pdftex.def Info: ./SS/prophase.png  used on input line 182.
+(pdftex.def)             Requested size: 225.09038pt x 121.95532pt.
+
+Overfull \hbox (3.6375pt too wide) in paragraph at lines 186--187
+[]\T1/cmr/m/n/10 chromatin DNA starts to con-dense turn-ing into DNA
+ []
+
+[4 <./SS/cyclin.png> <./SS/interphase.png> <./SS/prophase.png>]
+<./SS/metaphase.png, id=55, 444.91219pt x 254.45062pt>
+File: ./SS/metaphase.png Graphic file (type png)
+<use ./SS/metaphase.png>
+Package pdftex.def Info: ./SS/metaphase.png  used on input line 192.
+(pdftex.def)             Requested size: 222.45554pt x 127.22499pt.
+
+Overfull \hbox (17.57964pt too wide) in paragraph at lines 198--199
+[]\T1/cmr/m/n/10 In plant cells there are no cen-tro-somes but a methaphase
+ []
+
+<./SS/anaphase.png, id=57, 451.6875pt x 240.9pt>
+File: ./SS/anaphase.png Graphic file (type png)
+<use ./SS/anaphase.png>
+Package pdftex.def Info: ./SS/anaphase.png  used on input line 203.
+(pdftex.def)             Requested size: 225.84319pt x 120.44969pt.
+<./SS/telophase.png, id=59, 523.9575pt x 270.25969pt>
+File: ./SS/telophase.png Graphic file (type png)
+<use ./SS/telophase.png>
+Package pdftex.def Info: ./SS/telophase.png  used on input line 213.
+(pdftex.def)             Requested size: 235.77869pt x 121.61572pt.
+<./SS/leptonema.png, id=61, 113.29828pt x 129.48375pt>
+File: ./SS/leptonema.png Graphic file (type png)
+<use ./SS/leptonema.png>
+Package pdftex.def Info: ./SS/leptonema.png  used on input line 241.
+(pdftex.def)             Requested size: 101.96748pt x 116.53427pt.
+<./SS/zygonema.png, id=63, 97.48921pt x 117.06235pt>
+File: ./SS/zygonema.png Graphic file (type png)
+<use ./SS/zygonema.png>
+Package pdftex.def Info: ./SS/zygonema.png  used on input line 249.
+(pdftex.def)             Requested size: 87.73947pt x 105.35512pt.
+[5 <./SS/metaphase.png> <./SS/anaphase.png> <./SS/telophase.png> <./SS/leptonema.png> <./SS/zygonema.png>]
+<./SS/pachynema.png, id=78, 102.00609pt x 120.45pt>
+File: ./SS/pachynema.png Graphic file (type png)
+<use ./SS/pachynema.png>
+Package pdftex.def Info: ./SS/pachynema.png  used on input line 257.
+(pdftex.def)             Requested size: 91.80461pt x 108.40398pt.
+<./SS/diplonema.png, id=80, 99.37125pt x 120.45pt>
+File: ./SS/diplonema.png Graphic file (type png)
+<use ./SS/diplonema.png>
+Package pdftex.def Info: ./SS/diplonema.png  used on input line 265.
+(pdftex.def)             Requested size: 89.43329pt x 108.40398pt.
+<./SS/diakineses.png, id=82, 110.66344pt x 127.22531pt>
+File: ./SS/diakineses.png Graphic file (type png)
+<use ./SS/diakineses.png>
+Package pdftex.def Info: ./SS/diakineses.png  used on input line 277.
+(pdftex.def)             Requested size: 99.59615pt x 114.50171pt.
+<./SS/mim.png, id=84, 98.99484pt x 112.16907pt>
+File: ./SS/mim.png Graphic file (type png)
+<use ./SS/mim.png>
+Package pdftex.def Info: ./SS/mim.png  used on input line 285.
+(pdftex.def)             Requested size: 89.09453pt x 100.9512pt.
+<./SS/aim.png, id=86, 103.88812pt x 123.46124pt>
+File: ./SS/aim.png Graphic file (type png)
+<use ./SS/aim.png>
+Package pdftex.def Info: ./SS/aim.png  used on input line 293.
+(pdftex.def)             Requested size: 93.49843pt x 111.11407pt.
+<./SS/ia.png, id=88, 459.21562pt x 270.25969pt>
+File: ./SS/ia.png Graphic file (type png)
+<use ./SS/ia.png>
+Package pdftex.def Info: ./SS/ia.png  used on input line 309.
+(pdftex.def)             Requested size: 206.64511pt x 121.61572pt.
+
+Overfull \hbox (4.31898pt too wide) in paragraph at lines 311--312
+[]\T1/cmr/m/n/10 Given a ho-mo-lo-gus pair, one ho-mol-o-gous pair's cross-
+ []
+
+[6 <./SS/pachynema.png> <./SS/diplonema.png> <./SS/diakineses.png> <./SS/mim.png> <./SS/aim.png> <./SS/ia.png>]
+<./SS/co.png, id=105, 479.54156pt x 256.70906pt>
+File: ./SS/co.png Graphic file (type png)
+<use ./SS/co.png>
+Package pdftex.def Info: ./SS/co.png  used on input line 319.
+(pdftex.def)             Requested size: 215.7917pt x 115.518pt.
+<./SS/nilou.png, id=107, 770.88pt x 433.62pt>
+File: ./SS/nilou.png Graphic file (type png)
+<use ./SS/nilou.png>
+Package pdftex.def Info: ./SS/nilou.png  used on input line 330.
+(pdftex.def)             Requested size: 231.26578pt x 130.087pt.
+ [7
+
+ <./SS/co.png> <./SS/nilou.png>] (main.aux)
+ ***********
+LaTeX2e <2023-06-01> patch level 1
+L3 programming layer <2023-08-29>
+ ***********
+ ) 
+Here is how much of TeX's memory you used:
+ 2998 strings out of 475248
+ 46661 string characters out of 5757814
+ 1929785 words of memory out of 5000000
+ 24528 multiletter control sequences out of 15000+600000
+ 563712 words of font info for 44 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 57i,6n,65p,396b,181s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\popec\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\popec\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1000.pk> <C:\Users\popec\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\popec\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\popec\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk> <C:\Users\popec\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1000.pk>
+Output written on main.pdf (7 pages, 6797778 bytes).
+PDF statistics:
+ 312 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 233 words of extra memory for PDF output out of 10000 (max. 10000000)
+

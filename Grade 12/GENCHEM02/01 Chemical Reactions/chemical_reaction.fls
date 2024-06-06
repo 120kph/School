@@ -1,6 +1,6 @@
-PWD c:\Users\popec\OneDrive\Documents\School\Chemistry\01 Chemical Reactions
+PWD c:\Users\popec\OneDrive\Documents\School\Grade 12\GENCHEM02\01 Chemical Reactions
 INPUT C:\Users\popec\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\popec\OneDrive\Documents\School\Chemistry\01 Chemical Reactions\chemical_reaction.tex
+INPUT c:\Users\popec\OneDrive\Documents\School\Grade 12\GENCHEM02\01 Chemical Reactions\chemical_reaction.tex
 OUTPUT chemical_reaction.log
 INPUT C:\Users\popec\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Users\popec\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls

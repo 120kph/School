@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10) (preloaded format=pdflatex 2024.1.9)  9 JAN 2024 11:48
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10) (preloaded format=pdflatex 2024.1.9)  30 JAN 2024 11:30
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"c:/Users/popec/OneDrive/Documents/School/Chemistry/01 Chemical Reactions/chemical_reaction.tex"
-(c:/Users/popec/OneDrive/Documents/School/Chemistry/01 Chemical Reactions/chemical_reaction.tex
+**"c:/Users/popec/OneDrive/Documents/School/Grade 12/GENCHEM02/01 Chemical Reactions/chemical_reaction.tex"
+(c:/Users/popec/OneDrive/Documents/School/Grade 12/GENCHEM02/01 Chemical Reactions/chemical_reaction.tex
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-08-29>
 (C:\Users\popec\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
@@ -120,12 +120,12 @@ L3 programming layer <2023-08-29>
  ) 
 Here is how much of TeX's memory you used:
  1368 strings out of 475248
- 19993 string characters out of 5757814
+ 20056 string characters out of 5757814
  1922785 words of memory out of 5000000
  22947 multiletter control sequences out of 15000+600000
  561483 words of font info for 41 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 56i,5n,65p,288b,120s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 56i,5n,65p,297b,120s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\popec\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk> <C:\Users\popec\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\popec\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1000.pk> <C:\Users\popec\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk>
 Output written on chemical_reaction.pdf (1 page, 28080 bytes).
 PDF statistics:
